@@ -1,6 +1,8 @@
 package leetCode;
 
-public class SameTree {
+/* https://leetcode.com/problems/symmetric-tree/description/ */
+
+public class SymmetricTree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
