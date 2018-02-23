@@ -1,19 +1,17 @@
 package leetCode;
 
 public class MaximumDepthOfBinaryTree {
-
-/* https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ */
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 	/*
+	 * https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ 
+	 * <트리의 height 구하는 문제> 
+	 * height = Max((왼쪽 subtree 최대 depth), (오른쪽 subtree 최대 depth)) + 1
+	 * 
 	 * 재귀호출 logic 
 	 * 1. 1을 더한다. 
 	 * 2. null 이면 max return 하고 아니면 이동한다.
 	 */
+	
 	public int maxDepth(TreeNode root) {
 		return maxDepthHelper(root, 0);
 	}
