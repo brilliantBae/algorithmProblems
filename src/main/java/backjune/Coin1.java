@@ -19,7 +19,7 @@ public class Coin1 {
 	
 	public static int getCases(int n, int k, int[] values) {
 		Arrays.sort(values);
-		
+		return 0;
 	}
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
