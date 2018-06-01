@@ -9,13 +9,4 @@ A dominant member in the array is one that occupies over half the positions in t
 
 Provide a method that takes in an array and returns an index of the dominant member if one exists and -1 if there is none.
 */
-public class Memebox {
-    public int findDominant(int[] arr){
-        int count=0;
-        int max=0;
-        for(int i =0; i < arr.length; i++){
-            count++;
-            if
-        }
-    }
-}
+
