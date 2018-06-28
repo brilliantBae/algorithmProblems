@@ -1,6 +1,6 @@
 package hackerRank;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import static hackerRank.Rotation.rotLeft;
 import static hackerRank.Rotation.rotRight;

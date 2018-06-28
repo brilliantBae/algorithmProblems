@@ -39,7 +39,7 @@ public class Floyd {
 			for(int j=0; j <V; j++) {
 				if(i == j) C[0][i][j] = 0;
 				else {
-					C[0][i][j]
+					C[0][i][j];
 				}
 			}
 		}
