@@ -2,21 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c57b1d-ff64-46d6-9222-b42ddb4430e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Ten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/src/test/java/leetcode/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/src/test/java/leetcode/FindAllAnagramsinaStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/src/test/java/leetcode/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/src/test/java/leetcode/BestTimetoBuyandSellStock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/target/test-classes/leetcode/ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/target/test-classes/leetcode/ValidParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Eight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Four.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Nine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Seven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Six.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Ten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Three.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/BestTimeToBuyAndSellStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Memebox.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/target/" />
@@ -32,100 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Hello.java">
+      <file leaf-file-name="Count.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/test/java/recursion/Count.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="96">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Two.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Two.java">
+      <file leaf-file-name="BestTimetoBuyandSellStock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/src/test/java/leetcode/BestTimetoBuyandSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Three.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Three.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Five.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Five.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Six.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Six.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Seven.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Seven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Eight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Eight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Nine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ten.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Ten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Count.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/src/test/java/leetcode/Count.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#950#951#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -204,6 +123,8 @@
         <option value="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Ten.java" />
         <option value="$PROJECT_DIR$/src/main/java/AlgorithmJobs/Count.java" />
         <option value="$PROJECT_DIR$/src/main/src/test/java/leetcode/Count.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/recursion/Count.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/leetcode/BestTimetoBuyandSellStock.java" />
       </list>
     </option>
   </component>
@@ -243,6 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,12 +182,6 @@
               <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorithmJobs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,12 +189,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -315,15 +226,25 @@
             </path>
             <path>
               <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="AlgorithmProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,6 +269,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="hackerRank" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="recursion" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -520,7 +444,8 @@
       <workItem from="1530666847194" duration="1242000" />
       <workItem from="1531099409231" duration="2158000" />
       <workItem from="1531393856012" duration="6347000" />
-      <workItem from="1531718627791" duration="3611000" />
+      <workItem from="1531718627791" duration="4055000" />
+      <workItem from="1531880000763" duration="181000" />
     </task>
     <servers />
   </component>
@@ -557,37 +482,37 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46666000" />
+    <option name="totallyTimeSpent" value="47291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.1171875" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="JSON Viewer" order="9" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44125682" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32650274" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.1171875" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1693989" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07513661" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986339" weight="0.19140625" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3920765" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.14890711" />
+      <window_info anchor="right" id="JSON Viewer" order="9" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986339" visible="true" weight="0.19140625" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info id="Learn" order="6" />
       <window_info anchor="right" id="Gradle" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.50136614" side_tool="true" weight="0.19449541" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44125682" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32650274" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -612,11 +537,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3275401" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986339" weight="0.19371727" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.1171875" />
       <window_info anchor="right" id="Gradle" order="6" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986339" weight="0.19371727" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="Learn" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -624,7 +550,6 @@
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44125682" />
     </layout-to-restore>
@@ -666,20 +591,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Codility/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Codility/CyclicRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Codility/OddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -825,13 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetCode/BestTimeToBuyAndSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -991,13 +895,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Count.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/AlgorithmJobs/Ten.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1005,15 +903,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/leetcode/Count.java">
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/leetcode/Count.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetCode/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="118">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/recursion/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/leetcode/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
